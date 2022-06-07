@@ -9,5 +9,6 @@ OpenCore EFI configuration directory for Lenovo IdeaPad Z500.
 ## Not Work
 * Bluetooth
 * Power management
+* Brightness
 ## Notes
 This EFI config folder is using old version of OpenCore. Use [ProperTree](https://github.com/corpnewt/ProperTree) instead of OpenCore Configlator when editing config.plist.
